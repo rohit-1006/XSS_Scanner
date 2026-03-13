@@ -25,7 +25,7 @@ MODERATE_PAYLOADS = [
     '<img src=x onerror="alert(String.fromCharCode(88,83,83))">',
     '<svg/onload=alert("XSS")>',
     '<body onload=alert("XSS")>',
-    '<iframe src="javascript:alert(\\'XSS\\')">',
+    "<iframe src=\"javascript:alert('XSS')\">",
     '<input onfocus=alert("XSS") autofocus>',
     '<details open ontoggle=alert("XSS")>',
     '<marquee onstart=alert("XSS")>',
