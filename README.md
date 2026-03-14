@@ -8,7 +8,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/rohit-1006/XSS_Scanner?style=flat-square&color=facc15)](https://github.com/rohit-1006/XSS_Scanner/stargazers)
 [![Issues](https://img.shields.io/github/issues/rohit-1006/XSS_Scanner?style=flat-square)](https://github.com/rohit-1006/XSS_Scanner/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/rohit-1006/XSS_Scanner?style=flat-square)](https://github.com/rohit-1006/XSS_Scanner/commits/main)
 
 <br/>
 
