@@ -12,8 +12,6 @@
 
 <br/>
 
-[Features](#-features) • [Project Structure](#-project-structure) • [Installation](#-installation) • [Usage](#-usage) • [How It Works](#-how-it-works) • [Contributing](#-contributing) • [Disclaimer](#️-legal-disclaimer)
-
 </div>
 
 ---
@@ -23,8 +21,6 @@
 **XSS Scanner** is a fully modular, Python-based tool for detecting **Cross-Site Scripting (XSS)** vulnerabilities in web applications. It combines an intelligent web crawler, multiple detection engines, advanced payload encoding, false-positive filtering, and HTML report generation into a clean, extensible architecture.
 
 Designed for **security researchers**, **penetration testers**, and **developers** who want to audit their applications for XSS vulnerabilities before attackers do.
-
-> ⚠️ **For authorized testing only.** See the [Legal Disclaimer](#️-legal-disclaimer) at the bottom.
 
 ---
 
@@ -121,30 +117,6 @@ python main.py -u <target_url> [options]
 | `-v`, `--verbose` | Enable verbose output |
 
 > **Note:** Update this table to reflect your exact CLI flags from `main.py`.
-
----
-
-## 💡 Examples
-
-**Basic scan on a single URL:**
-```bash
-python main.py -u https://example.com
-```
-
-**Full crawl + form detection + HTML report:**
-```bash
-python main.py -u https://example.com --crawl --forms --report
-```
-
-**Scan with a custom payload list and encoding:**
-```bash
-python main.py -u https://example.com --payloads payloads/custom_payloads.txt --encode
-```
-
-**DOM-based XSS scan with verbose output:**
-```bash
-python main.py -u https://example.com --dom -v
-```
 
 ---
 
@@ -253,7 +225,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <div align="center">
 
-Made with ❤️ by [rohit-1006](https://github.com/rohit-1006)
+Made with ❤️ by [ROHIT](https://github.com/rohit-1006)
 
 ⭐ **Star this repo if you find it useful!**
 
