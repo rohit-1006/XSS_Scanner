@@ -6,8 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/rohit-1006/XSS_Scanner?style=flat-square&color=facc15)](https://github.com/rohit-1006/XSS_Scanner/stargazers)
-[![Issues](https://img.shields.io/github/issues/rohit-1006/XSS_Scanner?style=flat-square)](https://github.com/rohit-1006/XSS_Scanner/issues)
 
 <br/>
 
